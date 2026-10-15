@@ -1,0 +1,1 @@
+This is a _private_ repository to collect the documents we're using to develop the Open Media Network application on Emissary.
